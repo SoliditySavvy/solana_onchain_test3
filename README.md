@@ -1,4 +1,4 @@
-# Test Suite
+# Test 3
 
 We have provided a comprehensive test suite to ensure the correctness of your implementation. This test suite covers various aspects of the project, including but not limited to the following:
 
@@ -10,4 +10,3 @@ To run the test suite and verify the correctness of your implementation, you can
 
 ```bash
 anchor test
-``
